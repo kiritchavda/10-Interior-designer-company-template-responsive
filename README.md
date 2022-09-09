@@ -8,7 +8,7 @@
 - absolute position elements control
  - Got more control over responsive view to minimize media query.
  >
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ba4812db-3be8-4c83-801f-9f9dffdfa112/deploy-status)](https://app.netlify.com/sites/interior-design-website-template/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba4812db-3be8-4c83-801f-9f9dffdfa112/deploy-status)](https://interior-design-website-template.netlify.app/)
 > **Live website Link :** (Interior design Company website template)[https://interior-design-website-template.netlify.app/]
 
 ## Preview
