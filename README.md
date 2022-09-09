@@ -7,8 +7,13 @@
 - Responsive Slider Menu
 - absolute position elements control
  - Got more control over responsive view to minimize media query.
-
+ >
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba4812db-3be8-4c83-801f-9f9dffdfa112/deploy-status)](https://app.netlify.com/sites/interior-design-website-template/deploys)
 > **Live website Link :** (Interior design Company website template)[https://interior-design-website-template.netlify.app/]
+
+## Preview
+
+https://user-images.githubusercontent.com/44089465/189383910-cad2c5b6-34c4-4cba-8023-103670184ee7.mp4
 
 ## Snapshot
 
